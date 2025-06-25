@@ -60,6 +60,16 @@
     "horaFin": "19:00",
     "presentador": "Jhon Galvan"
   },
+    {
+    "id": 9,
+    "nombre": "Mundo Nocturno",
+    "descripcion": "Pop, Baladas, Baladas Americanas, Anglo",
+    "imagenUrl": "https://i0001.clarodrive.com/s/d4jKmjg9pNAdqjH/download/art_campeona.png",
+    "diaSemana": 2,
+    "horaInicio": "22:00",
+    "horaFin": "23:45",
+    "presentador": "Jhon Galvan"
+  },
   {
     "id": 7,
     "nombre": "Mundo Nocturno",
