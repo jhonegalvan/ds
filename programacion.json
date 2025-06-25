@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "nombre": "Matinal",
+    "descripcion": "Programa de mañanas con noticias y música",
+    "imagenUrl": "https://ejemplo.com/imagenes/matinal.jpg",
+    "diaSemana": 1,
+    "horaInicio": "06:00",
+    "horaFin": "10:00",
+    "presentador": "Carlos López"
+  },
+  {
+    "id": 2,
+    "nombre": "Tarde deportiva",
+    "descripcion": "Análisis deportivo y comentarios en directo",
+    "imagenUrl": "https://i0001.clarodrive.com/s/35reE88JRXpnkt8/download/icon_lamorena.png",
+    "diaSemana": 1,
+    "horaInicio": "12:00",
+    "horaFin": "14:00",
+    "presentador": "María Rodríguez"
+  },
+  {
+    "id": 3,
+    "nombre": "Rock & Pop",
+    "descripcion": "Lo mejor del rock y pop internacional",
+    "imagenUrl": "https://ejemplo.com/imagenes/rock.jpg",
+    "diaSemana": 1,
+    "horaInicio": "18:00",
+    "horaFin": "20:00",
+    "presentador": "Javier Gómez"
+  },
+  {
+    "id": 4,
+    "nombre": "Noche de Jazz",
+    "descripcion": "Sesiones de jazz con artistas invitados",
+    "imagenUrl": "https://ejemplo.com/imagenes/jazz.jpg",
+    "diaSemana": 1,
+    "horaInicio": "21:00",
+    "horaFin": "23:00",
+    "presentador": "Ana Torres"
+  },
+  {
+    "id": 5,
+    "nombre": "Música Clásica",
+    "descripcion": "Obras maestras de la música clásica",
+    "imagenUrl": "https://i0001.clarodrive.com/s/d4jKmjg9pNAdqjH/download/art_campeona.png",
+    "diaSemana": 2,
+    "horaInicio": "10:00",
+    "horaFin": "12:29",
+    "presentador": "Javier"
+  },
+
+  {
+    "id": 6,
+    "nombre": "Tardes Doradas",
+    "descripcion": "Música Crossover para todos los gustos",
+    "imagenUrl": "https://i0001.clarodrive.com/s/bYCHBzdn8NDPrE8/download/adlogo.png",
+    "diaSemana": 2,
+    "horaInicio": "12:30",
+    "horaFin": "19:00",
+    "presentador": "Jhon Galvan"
+  },
+  {
+    "id": 7,
+    "nombre": "Mundo Nocturno",
+    "descripcion": "Pop, Baladas, Baladas Americanas, Anglo",
+    "imagenUrl": "https://i0001.clarodrive.com/s/d4jKmjg9pNAdqjH/download/art_campeona.png",
+    "diaSemana": 2,
+    "horaInicio": "19:00",
+    "horaFin": "21:45",
+    "presentador": "Jhon Galvan"
+  }
+]
